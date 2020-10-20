@@ -34,7 +34,7 @@ public class DbManager {
 	/**
 	 * 数据库密码
 	 */
-	public static final String password = "2147483647";
+	public static final String password = "rootpass";
 
 	/**
 	 * 保存商品信息
